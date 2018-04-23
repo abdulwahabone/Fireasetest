@@ -1,0 +1,23 @@
+html, body, {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+body {
+	background-image:url(background.JPG);
+	background-color: #101846;
+}
+
+#key{
+	color: floralwhite;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+a:hover{
+	color:goldenrod;
+}
+
+	
